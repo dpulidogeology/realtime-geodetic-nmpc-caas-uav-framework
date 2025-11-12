@@ -2,7 +2,7 @@
 
 ### [Public Portfolio Version - Master's Thesis]
 
-Copyright & Licenced 2025
+Licensed under a custom Academic/Commercial license. See LICENSE.md for details.
 
 This repository showcases the architecture of a high-performance, **Dockerized** framework for advanced UAV autonomy. The project was developed as a Master of Science M.S.c. Thesis at the  ** University of Applied Sciences of  Karlsruhe (H-KA)** in cooperation with the **Fraunhofer Institute of Optronics, System Technologies and Image Exploitation (IOSB)** in Karlsruhe , Germany.
 
