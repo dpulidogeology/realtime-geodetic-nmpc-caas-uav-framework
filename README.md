@@ -2,7 +2,7 @@
 
 ### [Public Portfolio Version - Master's Thesis]
 
-This repository showcases the architecture of a high-performance, **Dockerized** framework for advanced UAV autonomy. The project was developed as a Master of Science M.S.c. Thesis at the  ** University of Applied Sciences of  Karlsruhe (H-KA)** in cooperation with the **Fraunhofer Institute (IOSB)** in Karlsruhe , Germany.
+This repository showcases the architecture of a high-performance, **Dockerized** framework for advanced UAV autonomy. The project was developed as a Master of Science M.S.c. Thesis at the  ** University of Applied Sciences of  Karlsruhe (H-KA)** in cooperation with the ** Fraunhofer Institute of Optronics, System Technologies and Image Exploitation (IOSB)** in Karlsruhe , Germany.
 
 This framework is a standalone **"Controller-as-a-Service" (CaaS)** platform, built from the ground up in Python and C++, designed for real-world, long-range Geodetically corrected autonomous missions.
 
